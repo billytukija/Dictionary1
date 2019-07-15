@@ -1,0 +1,7 @@
+C:\Users\billy.richard\Documents\GitHub\Dictionary\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\billy.richard\Documents\GitHub\Dictionary\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\billy.richard\Documents\GitHub\Dictionary\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\billy.richard\Documents\GitHub\Dictionary\Dictionary\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\billy.richard\Documents\GitHub\Dictionary\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\billy.richard\Documents\GitHub\Dictionary\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\billy.richard\Documents\GitHub\Dictionary\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
